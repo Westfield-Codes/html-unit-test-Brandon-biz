@@ -1,9 +1,18 @@
+table{
+	text-align:left;
+	margin:auto;
+}
+
 body {
   width:90%;
+  margin:auto;
+  text-align:center;
+  padding-bottom: 35px;
 }
 
 th {
   vertical-align:top;
+  text-align:center;
 }
 
 td {
